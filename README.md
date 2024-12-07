@@ -1,4 +1,5 @@
 # HackVision2024
+## **Team: Pixel Pros**
 ### Computer Vision Final Project to create a Traffic Congestion Detection system using YOLO V8.
 
 This repository contains a Python-based vehicle tracking and counting system using YOLOv8, OpenCV, and geometric analysis to track and count vehicles in a traffic video. It employs the following key components:
@@ -36,7 +37,7 @@ This system is designed to analyze traffic videos for congestion monitoring or t
   
 This project demonstrates an efficient use of deep learning for real-time vehicle tracking and traffic analysis.
 
-### Teamates:
+### Team mates:
 <a href="https://github.comPearl-Dsilva/HackVision2024/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Pearl-Dsilva/HackVision2024" />
 </a>
