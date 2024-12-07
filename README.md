@@ -2,6 +2,10 @@
 ### Computer Vision Final Project to create a Traffic Congestion Detection system using YOLO V8.
 
 This repository contains a Python-based vehicle tracking and counting system using YOLOv8, OpenCV, and geometric analysis to track and count vehicles in a traffic video. It employs the following key components:
+### To run this project:
+- Clone the repository
+```git clone https://github.com/Pearl-Dsilva/HackVision2024.git```
+- Run the [Vision_Hack_2024.ipynb](https://github.com/Pearl-Dsilva/HackVision2024/blob/main/Vision_Hack_2024.ipynb) file
 
 ### Libraries and Dependencies:
 - **OpenCV** for image processing and video handling.
