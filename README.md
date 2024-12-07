@@ -28,9 +28,14 @@ This system is designed to analyze traffic videos for congestion monitoring or t
 
 ### Requirements:
 - **Python libraries**: `torch`, `ultralytics`, `cvzone`, `shapely`, `opencv-python`, `numpy`, `pandas`.
-- **YOLOv8 model**: Pre-trained model is required for detection.
-
+- **YOLOv8 model**
+  
 This project demonstrates an efficient use of deep learning for real-time vehicle tracking and traffic analysis.
+
+### Teamates:
+<a href="https://github.comPearl-Dsilva/HackVision2024/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pearl-Dsilva/HackVision2024" />
+</a>
 
 ### Video:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ChudKmGyOfA
